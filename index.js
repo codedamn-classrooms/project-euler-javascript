@@ -1,8 +1,8 @@
-function intRightTriangles(n) {
+function champernownesConstant(n) {
 
-  return n;
+  return true;
 }
 
-intRightTriangles(500);
+champernownesConstant(100);
 
-module.exports = intRightTriangles;
+module.exports = champernownesConstant;
