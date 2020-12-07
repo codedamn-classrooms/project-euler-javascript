@@ -1,8 +1,8 @@
-function monopolyOdds() {
+function countingRectangles() {
 
   return true;
 }
 
-monopolyOdds();
+countingRectangles();
 
-module.exports = monopolyOdds;
+module.exports = countingRectangles;
