@@ -1,8 +1,8 @@
-function oddPeriodSqrts() {
+function convergentsOfE() {
 
   return true;
 }
 
-oddPeriodSqrts();
+convergentsOfE();
 
-module.exports = oddPeriodSqrts;
+module.exports = convergentsOfE;
