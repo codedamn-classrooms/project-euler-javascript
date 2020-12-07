@@ -1,8 +1,8 @@
-function quadraticPrimes(range) {
+function spiralDiagonals(n) {
 
-  return range;
+  return n;
 }
 
-quadraticPrimes(1000);
+spiralDiagonals(1001);
 
-module.exports = quadraticPrimes;
+module.exports = spiralDiagonals;
