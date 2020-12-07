@@ -1,8 +1,8 @@
-function longestCollatzSequence(limit) {
+function latticePaths(gridSize) {
 
   return true;
 }
 
-longestCollatzSequence(14);
+latticePaths(4);
 
-module.exports = longestCollatzSequence;
+module.exports = latticePaths;
