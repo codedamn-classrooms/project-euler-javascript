@@ -1,8 +1,8 @@
-function cuboidRoute() {
+function primePowerTriples() {
 
   return true;
 }
 
-cuboidRoute();
+primePowerTriples();
 
-module.exports = cuboidRoute;
+module.exports = primePowerTriples;
