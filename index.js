@@ -1,13 +1,8 @@
-function maximumPathSumII(triangle) {
+function magic5GonRing() {
 
   return true;
 }
 
-const testTriangle = [[3, 0, 0, 0],
-                      [7, 4, 0, 0],
-                      [2, 4, 6, 0],
-                      [8, 5, 9, 3]];
+magic5GonRing();
 
-maximumPathSumII(testTriangle);
-
-module.exports = maximumPathSumII;
+module.exports = magic5GonRing;
