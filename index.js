@@ -1,8 +1,8 @@
-function arrangedProbability() {
+function euler101() {
 
   return true;
 }
 
-arrangedProbability();
+euler101();
 
-module.exports = arrangedProbability;
+module.exports = euler101;
