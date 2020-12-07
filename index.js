@@ -1,8 +1,8 @@
-function triPentaHexa(n) {
+function goldbachsOtherConjecture() {
 
   return true;
 }
 
-triPentaHexa(40756);
+goldbachsOtherConjecture();
 
-module.exports = triPentaHexa;
+module.exports = goldbachsOtherConjecture;
