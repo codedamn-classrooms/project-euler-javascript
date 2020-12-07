@@ -1,8 +1,8 @@
-function primeSummations() {
+function coinPartitions() {
 
   return true;
 }
 
-primeSummations();
+coinPartitions();
 
-module.exports = primeSummations;
+module.exports = coinPartitions;
