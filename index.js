@@ -1,8 +1,8 @@
-function latticePaths(gridSize) {
+function powerDigitSum(exponent) {
 
   return true;
 }
 
-latticePaths(4);
+powerDigitSum(15);
 
-module.exports = latticePaths;
+module.exports = powerDigitSum;
