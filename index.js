@@ -1,8 +1,8 @@
-function champernownesConstant(n) {
+function pandigitalPrime(n) {
 
-  return true;
+  return n;
 }
 
-champernownesConstant(100);
+pandigitalPrime(7);
 
-module.exports = champernownesConstant;
+module.exports = pandigitalPrime;
