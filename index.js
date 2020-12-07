@@ -1,8 +1,8 @@
-function totientPermutation() {
+function orderedFractions() {
 
   return true;
 }
 
-totientPermutation();
+orderedFractions();
 
-module.exports = totientPermutation;
+module.exports = orderedFractions;
