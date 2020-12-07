@@ -1,9 +1,8 @@
-function specialPythagoreanTriplet(n) {
- let sumOfabc = n;
+function primeSummation(n) {
 
- return true;
+  return true;
 }
 
-specialPythagoreanTriplet(1000);
+primeSummation(2000000);
 
-module.exports = specialPythagoreanTriplet;
+module.exports = primeSummation;
