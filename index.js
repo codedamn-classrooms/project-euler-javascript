@@ -1,8 +1,8 @@
-function cyclicalFigurateNums() {
+function cubicPermutations() {
 
   return true;
 }
 
-cyclicalFigurateNums();
+cubicPermutations();
 
-module.exports = cyclicalFigurateNums;
+module.exports = cubicPermutations;
