@@ -1,8 +1,8 @@
-function squareDigitChains() {
+function arithmeticExpressions() {
 
   return true;
 }
 
-squareDigitChains();
+arithmeticExpressions();
 
-module.exports = squareDigitChains;
+module.exports = arithmeticExpressions;
