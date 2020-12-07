@@ -1,8 +1,8 @@
-function distinctPowers(n) {
+function digitnPowers(n) {
 
   return n;
 }
 
-distinctPowers(30);
+digitnPowers(5);
 
-module.exports = distinctPowers;
+module.exports = digitnPowers;
