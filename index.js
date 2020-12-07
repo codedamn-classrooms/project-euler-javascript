@@ -1,6 +1,8 @@
-function fiboEvenSum(n) {
+function largestPrimeFactor(number) {
 
   return true;
 }
 
-module.exports = fiboEvenSum;
+largestPrimeFactor(13195);
+
+module.exports = largestPrimeFactor;
