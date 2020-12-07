@@ -1,8 +1,8 @@
-function countLychrelNumbers(num) {
+function powerfulDigitSum() {
 
   return true;
 }
 
-countLychrelNumbers(10000);
+powerfulDigitSum();
 
-module.exports = countLychrelNumbers;
+module.exports = powerfulDigitSum;
