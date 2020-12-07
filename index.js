@@ -1,8 +1,8 @@
-function circularPrimes(n) {
+function doubleBasePalindromes(n) {
 
   return n;
 }
 
-circularPrimes(1000000);
+doubleBasePalindromes(1000000);
 
-module.exports = circularPrimes;
+module.exports = doubleBasePalindromes;
