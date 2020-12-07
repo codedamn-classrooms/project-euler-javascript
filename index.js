@@ -1,8 +1,8 @@
-function largestPrimeFactor(number) {
+function largestPalindromeProduct(n) {
 
   return true;
 }
 
-largestPrimeFactor(13195);
+largestPalindromeProduct(3);
 
-module.exports = largestPrimeFactor;
+module.exports = largestPalindromeProduct;
