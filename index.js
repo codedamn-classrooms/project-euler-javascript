@@ -1,8 +1,8 @@
-function countingSundays(firstYear, lastYear) {
+function sumFactorialDigits(n) {
 
-  return true;
+  return n;
 }
 
-countingSundays(1943, 1946);
+sumFactorialDigits(100);
 
-module.exports = countingSundays;
+module.exports = sumFactorialDigits;
