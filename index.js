@@ -1,8 +1,8 @@
-function orderedFractions() {
+function countingFractions() {
 
   return true;
 }
 
-orderedFractions();
+countingFractions();
 
-module.exports = orderedFractions;
+module.exports = countingFractions;
