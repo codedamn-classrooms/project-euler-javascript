@@ -1,12 +1,8 @@
-function namesScores(arr) {
+function sumOfNonAbundantNumbers(n) {
 
-  return arr;
+  return n;
 }
 
-// Only change code above this line
-const test1 = ['THIS', 'IS', 'ONLY', 'A', 'TEST'];
-const test2 = ['I', 'REPEAT', 'THIS', 'IS', 'ONLY', 'A', 'TEST'];
+sumOfNonAbundantNumbers(28123);
 
-namesScores(test1);
-
-module.exports = namesScores;
+module.exports = sumOfNonAbundantNumbers;
