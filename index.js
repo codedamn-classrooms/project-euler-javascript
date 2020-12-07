@@ -1,8 +1,8 @@
-function pandigitalProducts() {
+function digitCancellingFractions() {
 
   return true;
 }
 
-pandigitalProducts();
+digitCancellingFractions();
 
-module.exports = pandigitalProducts;
+module.exports = digitCancellingFractions;
