@@ -1,8 +1,8 @@
-function euler198() {
+function iterativeCirclePacking(n) {
 
   return true;
 }
 
-euler198();
+iterativeCirclePacking(10);
 
-module.exports = euler198;
+module.exports = iterativeCirclePacking;
