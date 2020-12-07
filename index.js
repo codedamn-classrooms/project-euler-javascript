@@ -1,8 +1,8 @@
-function singularIntRightTriangles() {
+function countingSummations() {
 
   return true;
 }
 
-singularIntRightTriangles();
+countingSummations();
 
-module.exports = singularIntRightTriangles;
+module.exports = countingSummations;
