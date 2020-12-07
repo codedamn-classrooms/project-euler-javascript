@@ -1,8 +1,8 @@
-function largestPalindromeProduct(n) {
+function smallestMult(n) {
 
   return true;
 }
 
-largestPalindromeProduct(3);
+smallestMult(20);
 
-module.exports = largestPalindromeProduct;
+module.exports = smallestMult;
