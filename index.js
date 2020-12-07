@@ -1,8 +1,8 @@
-function selfPowers(power, lastDigits) {
+function primePermutations() {
 
   return true;
 }
 
-selfPowers(1000, 10);
+primePermutations();
 
-module.exports = selfPowers;
+module.exports = primePermutations;
