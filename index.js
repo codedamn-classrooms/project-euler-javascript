@@ -1,8 +1,8 @@
-function smallestMult(n) {
+function sumSquareDifference(n) {
 
   return true;
 }
 
-smallestMult(20);
+sumSquareDifference(100);
 
-module.exports = smallestMult;
+module.exports = sumSquareDifference;
