@@ -1,8 +1,8 @@
-function primeDigitReplacements() {
+function permutedMultiples() {
 
   return true;
 }
 
-primeDigitReplacements();
+permutedMultiples();
 
-module.exports = primeDigitReplacements;
+module.exports = permutedMultiples;
