@@ -1,8 +1,8 @@
-function goldbachsOtherConjecture() {
+function distinctPrimeFactors(targetNumPrimes, targetConsecutive) {
 
   return true;
 }
 
-goldbachsOtherConjecture();
+distinctPrimeFactors(4, 4);
 
-module.exports = goldbachsOtherConjecture;
+module.exports = distinctPrimeFactors;
