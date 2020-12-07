@@ -1,8 +1,8 @@
-function digitFibonacci(n) {
+function reciprocalCycles(n) {
 
   return n;
 }
 
-digitFibonacci(20);
+reciprocalCycles(1000);
 
-module.exports = digitFibonacci;
+module.exports = reciprocalCycles;
