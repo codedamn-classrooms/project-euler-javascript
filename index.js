@@ -1,8 +1,8 @@
-function sumOfNonAbundantNumbers(n) {
+function lexicographicPermutations(n) {
 
   return n;
 }
 
-sumOfNonAbundantNumbers(28123);
+lexicographicPermutations(999999);
 
-module.exports = sumOfNonAbundantNumbers;
+module.exports = lexicographicPermutations;
