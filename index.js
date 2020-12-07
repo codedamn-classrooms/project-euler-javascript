@@ -1,8 +1,8 @@
-function substringDivisibility() {
+function pentagonNumbers() {
 
-  return [];
+  return true;
 }
 
-substringDivisibility();
+pentagonNumbers();
 
-module.exports = substringDivisibility;
+module.exports = pentagonNumbers;
