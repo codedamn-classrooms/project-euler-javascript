@@ -1,8 +1,8 @@
-function cubicPermutations() {
+function powerfulDigitCounts() {
 
   return true;
 }
 
-cubicPermutations();
+powerfulDigitCounts();
 
-module.exports = cubicPermutations;
+module.exports = powerfulDigitCounts;
