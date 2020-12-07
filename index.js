@@ -1,8 +1,8 @@
-function countingRectangles() {
+function cuboidRoute() {
 
   return true;
 }
 
-countingRectangles();
+cuboidRoute();
 
-module.exports = countingRectangles;
+module.exports = cuboidRoute;
