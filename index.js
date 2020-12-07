@@ -1,8 +1,8 @@
-function primePowerTriples() {
+function productSumNumbers() {
 
   return true;
 }
 
-primePowerTriples();
+productSumNumbers();
 
-module.exports = primePowerTriples;
+module.exports = productSumNumbers;
