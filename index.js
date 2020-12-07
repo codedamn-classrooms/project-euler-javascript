@@ -1,8 +1,12 @@
-function sumAmicableNum(n) {
+function namesScores(arr) {
 
-  return n;
+  return arr;
 }
 
-sumAmicableNum(10000);
+// Only change code above this line
+const test1 = ['THIS', 'IS', 'ONLY', 'A', 'TEST'];
+const test2 = ['I', 'REPEAT', 'THIS', 'IS', 'ONLY', 'A', 'TEST'];
 
-module.exports = sumAmicableNum;
+namesScores(test1);
+
+module.exports = namesScores;
