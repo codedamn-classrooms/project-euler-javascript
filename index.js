@@ -1,8 +1,8 @@
-function lexicographicPermutations(n) {
+function digitFibonacci(n) {
 
   return n;
 }
 
-lexicographicPermutations(999999);
+digitFibonacci(20);
 
-module.exports = lexicographicPermutations;
+module.exports = digitFibonacci;
