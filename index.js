@@ -1,8 +1,8 @@
-function permutedMultiples() {
+function combinatoricSelections(limit) {
 
-  return true;
+  return 1;
 }
 
-permutedMultiples();
+combinatoricSelections(1000000);
 
-module.exports = permutedMultiples;
+module.exports = combinatoricSelections;
