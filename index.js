@@ -1,8 +1,8 @@
-function euler175() {
+function euler176() {
 
   return true;
 }
 
-euler175();
+euler176();
 
-module.exports = euler175;
+module.exports = euler176;
