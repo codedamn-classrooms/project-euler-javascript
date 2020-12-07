@@ -1,8 +1,8 @@
-function spiralDiagonals(n) {
+function distinctPowers(n) {
 
   return n;
 }
 
-spiralDiagonals(1001);
+distinctPowers(30);
 
-module.exports = spiralDiagonals;
+module.exports = distinctPowers;
