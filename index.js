@@ -1,8 +1,8 @@
-function powerfulDigitCounts() {
+function oddPeriodSqrts() {
 
   return true;
 }
 
-powerfulDigitCounts();
+oddPeriodSqrts();
 
-module.exports = powerfulDigitCounts;
+module.exports = oddPeriodSqrts;
