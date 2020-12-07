@@ -1,8 +1,8 @@
-function distinctPrimeFactors(targetNumPrimes, targetConsecutive) {
+function selfPowers(power, lastDigits) {
 
   return true;
 }
 
-distinctPrimeFactors(4, 4);
+selfPowers(1000, 10);
 
-module.exports = distinctPrimeFactors;
+module.exports = selfPowers;
