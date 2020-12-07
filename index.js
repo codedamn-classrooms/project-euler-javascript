@@ -1,8 +1,8 @@
-function euler107() {
+function diophantineOne() {
 
   return true;
 }
 
-euler107();
+diophantineOne();
 
-module.exports = euler107;
+module.exports = diophantineOne;
