@@ -1,8 +1,8 @@
-function powerDigitSum(exponent) {
+function numberLetterCounts(limit) {
 
   return true;
 }
 
-powerDigitSum(15);
+numberLetterCounts(5);
 
-module.exports = powerDigitSum;
+module.exports = numberLetterCounts;
