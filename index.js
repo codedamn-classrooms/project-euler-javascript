@@ -1,8 +1,8 @@
-function magic5GonRing() {
+function totientMaximum() {
 
   return true;
 }
 
-magic5GonRing();
+totientMaximum();
 
-module.exports = magic5GonRing;
+module.exports = totientMaximum;
