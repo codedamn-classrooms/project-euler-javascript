@@ -1,8 +1,8 @@
-function sumFactorialDigits(n) {
+function sumAmicableNum(n) {
 
   return n;
 }
 
-sumFactorialDigits(100);
+sumAmicableNum(10000);
 
-module.exports = sumFactorialDigits;
+module.exports = sumAmicableNum;
