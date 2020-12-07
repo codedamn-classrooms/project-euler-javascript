@@ -1,8 +1,8 @@
-function reciprocalCycles(n) {
+function quadraticPrimes(range) {
 
-  return n;
+  return range;
 }
 
-reciprocalCycles(1000);
+quadraticPrimes(1000);
 
-module.exports = reciprocalCycles;
+module.exports = quadraticPrimes;
