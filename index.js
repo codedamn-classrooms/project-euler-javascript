@@ -1,8 +1,8 @@
-function pandigitalMultiples() {
+function intRightTriangles(n) {
 
-  return true;
+  return n;
 }
 
-pandigitalMultiples();
+intRightTriangles(500);
 
-module.exports = pandigitalMultiples;
+module.exports = intRightTriangles;
