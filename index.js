@@ -1,8 +1,8 @@
-function digitnPowers(n) {
+function coinSums(n) {
 
   return n;
 }
 
-digitnPowers(5);
+coinSums(200);
 
-module.exports = digitnPowers;
+module.exports = coinSums;
