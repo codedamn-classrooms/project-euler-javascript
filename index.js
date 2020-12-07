@@ -1,8 +1,8 @@
-function countingSummations() {
+function primeSummations() {
 
   return true;
 }
 
-countingSummations();
+primeSummations();
 
-module.exports = countingSummations;
+module.exports = primeSummations;
