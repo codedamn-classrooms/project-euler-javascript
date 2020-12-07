@@ -1,8 +1,8 @@
-function squareRootConvergents() {
+function spiralPrimes() {
 
   return true;
 }
 
-squareRootConvergents();
+spiralPrimes();
 
-module.exports = squareRootConvergents;
+module.exports = spiralPrimes;
