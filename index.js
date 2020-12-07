@@ -1,8 +1,15 @@
-function divisibleTriangleNumber(n) {
+function largeSum(arr) {
 
   return true;
 }
 
-divisibleTriangleNumber(500);
+// Only change code above this line
 
-module.exports = divisibleTriangleNumber;
+const testNums = [
+  '37107287533902102798797998220837590246510135740250',
+  '46376937677490009712648124896970078050417018260538'
+];
+
+largeSum(testNums);
+
+module.exports = largeSum;
