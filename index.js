@@ -1,8 +1,8 @@
-function primePairSets() {
+function cyclicalFigurateNums() {
 
   return true;
 }
 
-primePairSets();
+cyclicalFigurateNums();
 
-module.exports = primePairSets;
+module.exports = cyclicalFigurateNums;
