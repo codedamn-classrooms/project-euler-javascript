@@ -1,8 +1,8 @@
-function almostEquilateralTriangles() {
+function amicableChains() {
 
   return true;
 }
 
-almostEquilateralTriangles();
+amicableChains();
 
-module.exports = almostEquilateralTriangles;
+module.exports = amicableChains;
