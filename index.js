@@ -1,8 +1,8 @@
-function countingFractions() {
+function countingFractionsInARange() {
 
   return true;
 }
 
-countingFractions();
+countingFractionsInARange();
 
-module.exports = countingFractions;
+module.exports = countingFractionsInARange;
