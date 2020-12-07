@@ -1,8 +1,8 @@
-function arithmeticExpressions() {
+function almostEquilateralTriangles() {
 
   return true;
 }
 
-arithmeticExpressions();
+almostEquilateralTriangles();
 
-module.exports = arithmeticExpressions;
+module.exports = almostEquilateralTriangles;
