@@ -1,4 +1,4 @@
-function pathSumThreeWays(arr) {
+function pathSumFourWays(arr) {
 
   return true;
 }
@@ -13,6 +13,6 @@ const testMatrix = [
   [805, 732, 524, 37, 331]
 ];
 
-pathSumThreeWays(testMatrix);
+pathSumFourWays(testMatrix);
 
-module.exports = pathSumThreeWays;
+module.exports = pathSumFourWays;
