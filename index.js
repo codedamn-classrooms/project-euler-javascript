@@ -1,8 +1,8 @@
-function truncatablePrimes(n) {
+function pandigitalMultiples() {
 
-  return n;
+  return true;
 }
 
-truncatablePrimes(11);
+pandigitalMultiples();
 
-module.exports = truncatablePrimes;
+module.exports = pandigitalMultiples;
