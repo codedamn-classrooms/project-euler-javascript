@@ -1,8 +1,8 @@
-function digitFactorialChains() {
+function singularIntRightTriangles() {
 
   return true;
 }
 
-digitFactorialChains();
+singularIntRightTriangles();
 
-module.exports = digitFactorialChains;
+module.exports = singularIntRightTriangles;
