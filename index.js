@@ -1,8 +1,6 @@
-function multiplesOf3and5(number) {
+function fiboEvenSum(n) {
 
   return true;
 }
 
-multiplesOf3and5(1000);
-
-module.exports = multiplesOf3and5;
+module.exports = fiboEvenSum;
