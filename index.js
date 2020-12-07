@@ -1,8 +1,8 @@
-function primePermutations() {
+function consecutivePrimeSum(limit) {
 
   return true;
 }
 
-primePermutations();
+consecutivePrimeSum(1000000);
 
-module.exports = primePermutations;
+module.exports = consecutivePrimeSum;
