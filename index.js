@@ -1,8 +1,8 @@
-function rightTrianglesIntCoords() {
+function squareDigitChains() {
 
   return true;
 }
 
-rightTrianglesIntCoords();
+squareDigitChains();
 
-module.exports = rightTrianglesIntCoords;
+module.exports = squareDigitChains;
