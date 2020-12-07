@@ -1,8 +1,8 @@
-function totientMaximum() {
+function totientPermutation() {
 
   return true;
 }
 
-totientMaximum();
+totientPermutation();
 
-module.exports = totientMaximum;
+module.exports = totientPermutation;
