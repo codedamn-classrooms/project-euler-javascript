@@ -1,10 +1,8 @@
-function digitFactorial() {
+function circularPrimes(n) {
 
-  var sum = 0;
-  var numbers = [];
-  return { sum, numbers };
+  return n;
 }
 
-digitFactorial();
+circularPrimes(1000000);
 
-module.exports = digitFactorial;
+module.exports = circularPrimes;
