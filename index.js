@@ -1,8 +1,8 @@
-function countingFractionsInARange() {
+function digitFactorialChains() {
 
   return true;
 }
 
-countingFractionsInARange();
+digitFactorialChains();
 
-module.exports = countingFractionsInARange;
+module.exports = digitFactorialChains;
