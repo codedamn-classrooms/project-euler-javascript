@@ -1,8 +1,8 @@
-function consecutivePrimeSum(limit) {
+function primeDigitReplacements() {
 
   return true;
 }
 
-consecutivePrimeSum(1000000);
+primeDigitReplacements();
 
-module.exports = consecutivePrimeSum;
+module.exports = primeDigitReplacements;
