@@ -1,8 +1,8 @@
-function cubeDigitPairs() {
+function rightTrianglesIntCoords() {
 
   return true;
 }
 
-cubeDigitPairs();
+rightTrianglesIntCoords();
 
-module.exports = cubeDigitPairs;
+module.exports = rightTrianglesIntCoords;
