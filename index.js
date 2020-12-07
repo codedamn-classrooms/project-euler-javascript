@@ -1,8 +1,8 @@
-function powerfulDigitSum() {
+function squareRootConvergents() {
 
   return true;
 }
 
-powerfulDigitSum();
+squareRootConvergents();
 
-module.exports = powerfulDigitSum;
+module.exports = squareRootConvergents;
