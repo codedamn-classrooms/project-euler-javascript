@@ -1,8 +1,10 @@
-function digitCancellingFractions() {
+function digitFactorial() {
 
-  return true;
+  var sum = 0;
+  var numbers = [];
+  return { sum, numbers };
 }
 
-digitCancellingFractions();
+digitFactorial();
 
-module.exports = digitCancellingFractions;
+module.exports = digitFactorial;
