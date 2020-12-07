@@ -1,8 +1,8 @@
-function coinSums(n) {
+function pandigitalProducts() {
 
-  return n;
+  return true;
 }
 
-coinSums(200);
+pandigitalProducts();
 
-module.exports = coinSums;
+module.exports = pandigitalProducts;
