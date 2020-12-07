@@ -1,8 +1,8 @@
-function sumSquareDifference(n) {
+function nthPrime(n) {
 
   return true;
 }
 
-sumSquareDifference(100);
+nthPrime(10001);
 
-module.exports = sumSquareDifference;
+module.exports = nthPrime;
