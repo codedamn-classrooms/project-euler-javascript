@@ -1,8 +1,8 @@
-function convergentsOfE() {
+function diophantineEquation() {
 
   return true;
 }
 
-convergentsOfE();
+diophantineEquation();
 
-module.exports = convergentsOfE;
+module.exports = diophantineEquation;
