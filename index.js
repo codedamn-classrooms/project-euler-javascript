@@ -1,8 +1,8 @@
-function pentagonNumbers() {
+function triPentaHexa(n) {
 
   return true;
 }
 
-pentagonNumbers();
+triPentaHexa(40756);
 
-module.exports = pentagonNumbers;
+module.exports = triPentaHexa;
