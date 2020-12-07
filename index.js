@@ -1,8 +1,8 @@
-function doubleBasePalindromes(n) {
+function truncatablePrimes(n) {
 
   return n;
 }
 
-doubleBasePalindromes(1000000);
+truncatablePrimes(11);
 
-module.exports = doubleBasePalindromes;
+module.exports = truncatablePrimes;
